@@ -25,4 +25,7 @@ formBtn.addEventListener('click', (e) => {
 form1.addEventListener('submit', (e) => {
     e.preventDefault();
     console.log('form submitted');
+    let email = document.querySelector('#email').value;
+    alert(`Thank you for enrolling! An email will be sent to ${email}.`)
+    location.reload();
 });

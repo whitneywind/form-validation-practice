@@ -1,4 +1,12 @@
-# Frontend Mentor - Intro component with sign up form solution
+### Screenshot
+
+![](./images/preview-desktop.png)
+
+Desktop version
+
+![](./images/mobile-screenshot.png)
+
+Mobile Version
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).
 
@@ -7,11 +15,9 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 
 
 ## Overview
@@ -26,15 +32,6 @@ Users should be able to:
   - Any `input` field is empty. The message for this error should say *"[Field Name] cannot be empty"*
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 
-### Screenshot
-
-![](./images/preview-desktop.png)
-
-Desktop version
-
-![](./images/mobile-screenshot.png)
-
-Mobile Version
 
 ### Links
 
